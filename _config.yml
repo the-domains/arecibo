@@ -1,7 +1,7 @@
 name: Arecibo
 favicon: null
-layout_spectrum: 0.8725636841263622
-typography_spectrum: 0.4732273251283914
+layout_spectrum: 0.25365
+typography_spectrum: 0.73194
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.41153302835300565
-  lightness: 0.007818033453077078
+  brandStrength: 0
+  lightness: 0.5
   saturation: 0.9726040826644748
   rhythmicContrast: 0.8938623659778386
 purpose: []
